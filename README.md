@@ -4,7 +4,7 @@
 
 *Welcome to my web site!*
 
-##Personal introduction
+## Personal introduction
 
 I studied **Multilingual Communication** at the University of Geneva and now I am a student at the MA in Multilingual Communication Technology (MATIM).
 
